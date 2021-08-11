@@ -8,7 +8,7 @@ But I do not want to be a Front End Dev, even though it is an awesome area!
 
 My objetive is to be a Back End Dev, so, in the future, I am goint to learn Node.Js, C# .NET and other tecnologies!
 
-But my dream is to be a Game Programmer, work in big Game Development Enterprises, so, in the future, you are goint to
+But my dream is to be a Game Programmer, work in big a Game Development Enterprises, so, in the future, you are goint to
 find some of my adventures in this world! 
 
 By the way, I am build a game called World War 1.5, an obvious war game. It is very simple, looks like an arcade,
