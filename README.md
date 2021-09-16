@@ -2,14 +2,14 @@
 
 👨‍🎓 - I am Doglas, a student of web development! 🌐
 
-Currently, I am learning the basics, HTML, CSS and JavaScript.
+* Currently, I am learning the basics, HTML, CSS and JavaScript.
 
-But I do not want to be a Front End Dev, even though it is an awesome area!
+* But I do not want to be a Front End Dev, even though it is an awesome area!
 
-My objetive is to be a Back End Dev, so, in the future, I am goint to learn Node.Js, C# .NET and other tecnologies!
+* My objetive is to be a Back End Dev, so, in the future, I am goint to learn Node.js, C# .NET and other tecnologies!
 
-By the way, I am building a game called World War 1.5, an obvious war game. It is very simple, looks like an arcade,
-but I am loving to develop it!
+* By the way, I built a game called World War 1.5, an obvious war game. It is very simple, looks like an arcade,
+but I loved to develop it!
 
 You can find me here: <a href="https://www.linkedin.com/in/doglas-rocha/">LinkedIn</a>, <a href="https://www.instagram.com/in_dev_/">Instagram</a>
 <!--
