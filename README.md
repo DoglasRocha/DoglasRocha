@@ -12,6 +12,12 @@
 but I loved to develop it!
 
 You can find me here: <a href="https://www.linkedin.com/in/doglas-rocha/" target="_blank">LinkedIn</a>, <a href="https://www.instagram.com/doglasrocha.dev/" target="_blank">Instagram</a>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=DoglasRocha&show_icons=true&theme=great-gatsby">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoglasRocha&layout=compact&theme=great-gatsby">
+</div>
+
 <!--
 **DoglasRocha/DoglasRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
