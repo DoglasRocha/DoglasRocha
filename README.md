@@ -6,7 +6,7 @@
 
 * But I do not want to be a Front End Dev, even though it is an awesome area!
 
-* My objetive is to be a Back End Dev, so, in the future, I am goint to learn Node.js, C# .NET and other tecnologies!
+* My objetive is to be a Back End Dev, so, in the future, I am going to learn Node.js, C# .NET and other tecnologies!
 
 * By the way, I built a game called World War 1.5, an obvious war game. It is very simple, looks like an arcade,
 but I loved to develop it!
