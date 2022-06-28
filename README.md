@@ -2,7 +2,7 @@
 
 👨‍🎓 - I am Doglas, I am studying Information Systems in UTFPR!
 
-* I know the basics of various languages, like Python, JavaScript, C, Go, C#, but my main goal is learnin about AIs.
+* I know the basics of various languages, like Python, JavaScript, C, Go, C#, but my main goal is learnin about AI.
 
 * But I like BackEnd development a lot!
 
