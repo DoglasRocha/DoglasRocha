@@ -1,17 +1,17 @@
 # Hi there 👋
 
-👨‍🎓 - I am Doglas, a student of web development! 🌐
+👨‍🎓 - I am Doglas, I am studying Information Systems in UTFPR!
 
-* Currently, I am learning the basics, HTML, CSS and JavaScript.
+* I know the basics of various languages, like Python, JavaScript, C, Go, C#, but my main goal is learnin about AIs.
 
-* But I do not want to be a Front End Dev, even though it is an awesome area!
-
-* My objetive is to be a Back End Dev, so, in the future, I am going to learn Node.js, C# .NET and other tecnologies!
+* But I like BackEnd development a lot!
 
 * By the way, I built a game called World War 1.5, an obvious war game. It is very simple, looks like an arcade,
 but I loved to develop it!
 
-You can find me here: <a href="https://www.linkedin.com/in/doglas-rocha/" target="_blank">LinkedIn</a>, <a href="https://www.instagram.com/doglasrocha.dev/" target="_blank">Instagram</a>
+You can find me here: <a href="https://www.linkedin.com/in/doglas-rocha/" target="_blank">LinkedIn</a>
+
+## My GitHub Stats
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=DoglasRocha&show_icons=true&theme=dark">
