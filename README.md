@@ -14,7 +14,7 @@ but I loved to develop it!
 You can find me here: <a href="https://www.linkedin.com/in/doglas-rocha/" target="_blank">LinkedIn</a>, <a href="https://www.instagram.com/doglasrocha.dev/" target="_blank">Instagram</a>
 
 <div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoglasRocha&show_icons=true&theme=dark)]
+  <img src="https://github-readme-stats.vercel.app/api?username=DoglasRocha&show_icons=true&theme=dark">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoglasRocha&layout=compact&theme=great-gatsby">
 </div>
 
