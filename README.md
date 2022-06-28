@@ -15,7 +15,7 @@ You can find me here: <a href="https://www.linkedin.com/in/doglas-rocha/" target
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=DoglasRocha&show_icons=true&theme=dark">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=DoglasRocha&layout=compact&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoglasRocha&layout=compact&theme=dark">
 </div>
 
 <!--
