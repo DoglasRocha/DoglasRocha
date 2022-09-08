@@ -20,9 +20,14 @@ You can find me here: <a href="https://www.linkedin.com/in/doglas-rocha/" target
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoglasRocha&theme=dark&hide=Jupyter%20Notebook&langs_count=8&layout=compact">
 </a>
   
-## Wakatime
+## My pins
 
-[![DoglasRocha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DoglasRocha&theme=dark)](https://github.com/DoglasRocha)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=WW_1.5_game)](https://github.com/DoglasRocha)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=CC50)](https://github.com/DoglasRocha)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=turitiba)](https://github.com/DoglasRocha)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=indicadores-dominancia-f1)](https://github.com/DoglasRocha)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=fundamentos-de-programacao-UTFPR)](https://github.com/DoglasRocha)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=WW_1.5_game)](https://github.com/DoglasRocha)-->
 
 <!--
 **DoglasRocha/DoglasRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
