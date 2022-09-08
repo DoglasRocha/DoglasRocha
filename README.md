@@ -14,10 +14,10 @@ You can find me here: <a href="https://www.linkedin.com/in/doglas-rocha/" target
 ## My GitHub Stats
 
 <a href="https:://github.com/DoglasRocha">
-  <img src="https://github-readme-stats.vercel.app/api?username=DoglasRocha&show_icons=true&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DoglasRocha&show_icons=true&theme=dark">
 </a>
 <a href="https:://github.com/DoglasRocha">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoglasRocha&theme=dark&hide=Jupyter%20Notebook&langs_count=8&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoglasRocha&theme=dark&hide=Jupyter%20Notebook&langs_count=8&layout=compact">
 </a>
   
 <!--
