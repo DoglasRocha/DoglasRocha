@@ -13,12 +13,8 @@ You can find me here: <a href="https://www.linkedin.com/in/doglas-rocha/" target
 
 ## My GitHub Stats
 
-<div>
   <img src="https://github-readme-stats.vercel.app/api?username=DoglasRocha&show_icons=true&theme=dark">
-</div>
-<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoglasRocha&theme=dark&hide=Jupyter%20Notebook&langs_count=8">
-</div>
 
 <!--
 **DoglasRocha/DoglasRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
