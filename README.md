@@ -22,12 +22,13 @@ You can find me here: <a href="https://www.linkedin.com/in/doglas-rocha/" target
   
 ## My pins
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=WW_1.5_game)](https://github.com/DoglasRocha)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=CC50)](https://github.com/DoglasRocha)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=turitiba)](https://github.com/DoglasRocha)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=indicadores-dominancia-f1)](https://github.com/DoglasRocha)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=fundamentos-de-programacao-UTFPR)](https://github.com/DoglasRocha)
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=WW_1.5_game)](https://github.com/DoglasRocha)-->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=WW_1.5_game&theme=dark)](https://github.com/DoglasRocha/WW_1.5_game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=CC50&theme=dark)](https://github.com/DoglasRocha/CC50)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=turitiba&theme=dark)](https://github.com/DoglasRocha/turitiba)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=indicadores-dominancia-f1&theme=dark)](https://github.com/DoglasRocha/indicadores-dominancia-f1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=fundamentos-de-programacao-UTFPR&theme=dark)](https://github.com/DoglasRocha/fundamentos-de-programacao-UTFPR)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=estruturas-de-dados-I&theme=dark)](https://github.com/DoglasRocha/estruturas-de-dados-I)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=tec-prog-trabalhos&theme=dark)](https://github.com/DoglasRocha/tec-prog-trabalhos)
 
 <!--
 **DoglasRocha/DoglasRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
