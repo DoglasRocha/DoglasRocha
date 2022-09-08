@@ -20,6 +20,10 @@ You can find me here: <a href="https://www.linkedin.com/in/doglas-rocha/" target
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoglasRocha&theme=dark&hide=Jupyter%20Notebook&langs_count=8&layout=compact">
 </a>
   
+## Wakatime
+
+[![DoglasRocha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DoglasRocha&theme=dark)](https://github.com/DoglasRocha)
+
 <!--
 **DoglasRocha/DoglasRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
