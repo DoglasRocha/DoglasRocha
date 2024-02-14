@@ -57,22 +57,22 @@ You can find me here: <a href="https://www.linkedin.com/in/doglas-rocha/" target
 <div align="center">
   
   <a href="https://github.com/DoglasRocha/biblioteca-a23">
-    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&amp;repo=biblioteca-a23&amp;theme=dark" alt="Readme Card">
+    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&amp;repo=biblioteca-a23&amp;theme=dark" alt="Readme Card">
   </a>
   <a href="https://github.com/DoglasRocha/WW_1.5_game">
-    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&amp;repo=WW_1.5_game&amp;theme=dark" alt="Readme Card">
+    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&amp;repo=WW_1.5_game&amp;theme=dark" alt="Readme Card">
   </a>
   <a href="https://github.com/DoglasRocha/jogo-tecnicas-programacao">
-    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&amp;repo=jogo-tecnicas-programacao&amp;theme=dark" alt="Readme Card">
+    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&amp;repo=jogo-tecnicas-programacao&amp;theme=dark" alt="Readme Card">
   </a>
   <a href="https://github.com/DoglasRocha/indicadores-dominancia-f1">
-    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&amp;repo=indicadores-dominancia-f1&amp;theme=dark" alt="Readme Card">
+    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&amp;repo=indicadores-dominancia-f1&amp;theme=dark" alt="Readme Card">
   </a>
   <a href="https://github.com/DoglasRocha/f1-data-explorer">
-    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&amp;repo=f1-data-explorer&amp;theme=dark" alt="Readme Card">
+    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&amp;repo=f1-data-explorer&amp;theme=dark" alt="Readme Card">
   </a>
   <a href="https://github.com/DoglasRocha/corrigidor-enem">
-    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&amp;repo=corrigidor-enem&amp;theme=dark" alt="Readme Card">
+    <img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&amp;repo=corrigidor-enem&amp;theme=dark" alt="Readme Card">
   </a>
 
 </div>
