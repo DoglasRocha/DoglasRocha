@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Doglas and I'm a Information Systems student, from UTFPR, Curitiba, Brazil</h2>
+<h2 align="center">Hi 👋! My name is Doglas and I'm a Information Systems student at UTFPR, from Curitiba, Brazil</h2>
 
 ###
 
