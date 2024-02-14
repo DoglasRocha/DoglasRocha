@@ -3,8 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DoglasRocha&show_icons=true&theme=dark" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoglasRocha&theme=dark&hide=Jupyter%20Notebook&langs_count=8&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DoglasRocha&show_icons=true&theme=dark" height="200" alt="stats graph"  />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoglasRocha&theme=dark&hide=Jupyter%20Notebook&langs_count=8&layout=compact" height="200" alt="languages graph"  />
 </div>
 
 ###
