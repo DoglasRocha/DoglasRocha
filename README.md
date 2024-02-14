@@ -20,7 +20,7 @@ You can find me here: <a href="https://www.linkedin.com/in/doglas-rocha/" target
 ## My pins
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=biblioteca-a23&theme=dark)](https://github.com/DoglasRocha/biblioteca-a23)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=WW_1.5_game&theme=dark)](https://github.com/DoglasRocha/WW_1.5_game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=turitiba&theme=dark)](https://github.com/DoglasRocha/turitiba)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=jogo-tecnicas-programacao&theme=dark)](https://github.com/DoglasRocha/jogo-tecnicas-programacao)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=indicadores-dominancia-f1&theme=dark)](https://github.com/DoglasRocha/indicadores-dominancia-f1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=f1-data-explorer&theme=dark)](https://github.com/DoglasRocha/f1-data-explorer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DoglasRocha&repo=corrigidor-enem&theme=dark)](https://github.com/DoglasRocha/corrigidor-enem)
