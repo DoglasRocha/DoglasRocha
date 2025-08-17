@@ -25,9 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="30" alt="angular logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="r logo"/>
-  <img src="https://shiny.posit.co/images/shiny-solo.png" alt="shiny logo"/>
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="30" alt="r logo"/>
 
 ###
 
